@@ -1,4 +1,4 @@
-module github.com/v8tix/mallbots-notifications-proto
+module github.com/v8tix/mallbots-notification-proto
 
 go 1.20
 
